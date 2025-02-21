@@ -1,4 +1,4 @@
-module github.com/flaze07/telebot
+module github.com/ChristSei/telebot
 
 go 1.19
 
